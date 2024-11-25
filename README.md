@@ -12,3 +12,9 @@ git commit -m "Add main.cpp"
 
 # 원격 저장소로 푸시
 git push -u origin main
+
+# Project Overview
+
+## Main Files
+- [README](README.md)
+- [Code Explanation](code_explanation.md)
